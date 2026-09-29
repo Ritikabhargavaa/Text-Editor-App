@@ -173,7 +173,3 @@ Through this project, I learned how to:
 * Use file dialogs and message boxes
 * Understand event-driven programming
 * Structure a small Python application
-
-## License
-
-This project is created for learning and educational purposes.
